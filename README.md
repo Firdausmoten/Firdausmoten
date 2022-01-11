@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Firdausmoten
-- 👀 I’m interested in Computer Science, Software Engineering/Software Development, Data Science, Ethical Hacking, machine learning, and deep learning.
-- 🌱 I’m currently learning Python
+- 👀 I'm passionate of Computer Science, Machine Learning, A.I, and Robotics Engineering.
+- 🌱 I’m currently learning Python, and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: firdausmoten@gmail.com
 
