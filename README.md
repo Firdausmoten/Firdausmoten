@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Firdausmoten
-- 👀 I'm passionate of Computer Science, Machine Learning, A.I, and Robotics Engineering.
-- 🌱 I’m currently learning Python, and Java.
-- 💞️ I’m looking to collaborate on ...
+
+ I like to program as a hobby and
+ contribute to open source projects.
+
+- 🌱 I’m currently learning C
 - 📫 How to reach me: firdausmoten@gmail.com
 
 <!---
