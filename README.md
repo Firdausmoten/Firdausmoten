@@ -2,8 +2,7 @@
 
  I like to program as a hobby and
  contribute to open source projects.
-
-- 🌱 I’m currently learning C
+ 
 - 📫 How to reach me: firdausmoten@gmail.com
 
 <!---
